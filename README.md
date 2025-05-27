@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Hello, I'm Vanshika!
 
-<!--
-**Vanshika00307/Vanshika00307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a passionate **Front-End Developer** who enjoys building clean, responsive, and user-friendly web applications. I love turning ideas into beautiful and functional digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently exploring the world of modern web development  
+- 🛠️ Skilled in **HTML** and **CSS**   
+- 📚 Always learning and trying out new tools and technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+- 💡 Languages: `HTML`, `CSS`, `Python`  
+- 🌐 Frontend: `Responsive Web Design` 
+- ⚒️ Tools: `VS Code`, `Git`, `GitHub` 
+- 🔍 Currently exploring: `React.js`, `Tailwind CSS`  
+
+---
+
+## 📫 Let's Connect
+
+- 💌 vanshikachoudhary07003@gmail.com    
+- 🔗 www.linkedin.com/in/vanshika07003 
+
+Thanks for visiting! 🌟
