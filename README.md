@@ -1,31 +1,14 @@
-# 💻 Hello, I'm Vanshika!
+# 👋 Hi, I'm Vanshika!
 
-### 👋 Welcome to my GitHub!
+I'm a **Front-End Developer** with a passion for creating responsive and user-friendly websites. I enjoy working with **HTML**, **CSS**, and have a growing interest in **Python** and modern JavaScript frameworks.
 
-I'm a passionate **Front-End Developer** who enjoys building clean, responsive, and user-friendly web applications. I love turning ideas into beautiful and functional digital experiences.
+## 💡 Tech Stack
+- HTML & CSS
+- Responsive Web Design
+- Git & GitHub
 
----
+## 📫 Connect with me
+- 📧 vanshikachoudhary07003@gmail.com
+- 💼 www.linkedin.com/in/vanshika07003
 
-## 🚀 About Me
 
-- 🌱 Currently exploring the world of modern web development  
-- 🛠️ Skilled in **HTML** and **CSS**   
-- 📚 Always learning and trying out new tools and technologies  
-
----
-
-## 🛠️ Tech Stack
-
-- 💡 Languages: `HTML`, `CSS`, `Python`  
-- 🌐 Frontend: `Responsive Web Design` 
-- ⚒️ Tools: `VS Code`, `Git`, `GitHub` 
-- 🔍 Currently exploring: `React.js`, `Tailwind CSS`  
-
----
-
-## 📫 Let's Connect
-
-- 💌 vanshikachoudhary07003@gmail.com    
-- 🔗 www.linkedin.com/in/vanshika07003 
-
-Thanks for visiting! 🌟
